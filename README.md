@@ -941,6 +941,10 @@ Don't forget to hit the :star:, If you like this repo.
 
 ## H
 
+[HMAHD](https://github.com/HMAHD/HMAHD)
+<details>
+<summary>Preview  </summary>
+
 [HridoyHazard](https://github.com/HridoyHazard)
   
 <details>
